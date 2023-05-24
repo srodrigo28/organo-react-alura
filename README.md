@@ -3,6 +3,11 @@
     ````
     https://cursos.alura.com.br/course/react-desenvolvendo-javascript/task/107393
     ```
+### Ultimo visto
+* Link Ultimo visualizado
+    ````
+    https://cursos.alura.com.br/course/react-desenvolvendo-javascript/task/107395
+    ```
 * Criando o projeto
     ```
     npm create vite@latest
